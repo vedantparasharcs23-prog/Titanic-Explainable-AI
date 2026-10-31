@@ -1,0 +1,25 @@
+
+# Virtual Environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# Dataset files (download separately from Kaggle)
+dataset/*.csv
+
+# Generated models
+models/*.pkl
+models/*.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
